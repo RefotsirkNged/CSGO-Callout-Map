@@ -3,9 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="CSGO Callout Map" Height="700" Width="700">
     <Grid>
-        <StackPanel Margin="227,533,273,-33">
-            <Button Content="Shit this is a button" Click="Button_Click"/>
-        </StackPanel>
+        <TextBlock Text="Searching for Games..." FontSize="20" Foreground="{DynamicResource {x:Static SystemColors.ControlBrushKey}}"/>
     </Grid>
     <Window.Background>
         <ImageBrush Stretch="Uniform">

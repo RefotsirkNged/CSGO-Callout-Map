@@ -22,13 +22,7 @@ namespace WpfApplication3
     {
         public MainWindow()
         {
-            this.Title = "CSGO Callout Map";
             InitializeComponent();
-        }
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-
         }
     }
 }

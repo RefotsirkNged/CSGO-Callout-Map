@@ -63,9 +63,49 @@ namespace WpfApplication3.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        public static System.Drawing.Bitmap cacheCallouts {
+            get {
+                object obj = ResourceManager.GetObject("cacheCallouts", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap cobbleCallouts {
+            get {
+                object obj = ResourceManager.GetObject("cobbleCallouts", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         public static System.Drawing.Bitmap CSGOBackground {
             get {
                 object obj = ResourceManager.GetObject("CSGOBackground", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap dust2Callouts {
+            get {
+                object obj = ResourceManager.GetObject("dust2Callouts", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap infernoCallouts {
+            get {
+                object obj = ResourceManager.GetObject("infernoCallouts", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -76,6 +116,36 @@ namespace WpfApplication3.Properties {
         public static string MenuBackground {
             get {
                 return ResourceManager.GetString("MenuBackground", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap mirageCallouts {
+            get {
+                object obj = ResourceManager.GetObject("mirageCallouts", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap overpassCallouts {
+            get {
+                object obj = ResourceManager.GetObject("overpassCallouts", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap trainCallouts {
+            get {
+                object obj = ResourceManager.GetObject("trainCallouts", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
             }
         }
     }

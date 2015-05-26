@@ -118,10 +118,31 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="cacheCallouts" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\steamworkshop_webupload_previewfile_157442340_preview (2).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cobbleCallouts" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\de_cbble-map-callouts.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="CSGOBackground" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\kvv97dt.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="dust2Callouts" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\steamworkshop_webupload_previewfile_157442340_preview (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="infernoCallouts" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Inferno.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="MenuBackground" xml:space="preserve">
     <value />
+  </data>
+  <data name="mirageCallouts" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\de_mirage-map-callouts.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="overpassCallouts" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\de_overpass-map-callouts-680x680.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="trainCallouts" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VN2GEeH.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

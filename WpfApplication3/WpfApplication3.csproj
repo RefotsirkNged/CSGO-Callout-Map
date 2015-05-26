@@ -68,6 +68,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="ActiveGameScanner.cs" />
     <Compile Include="UserControl1.xaml.cs">
       <DependentUpon>UserControl1.xaml</DependentUpon>
     </Compile>
@@ -120,6 +121,13 @@
     <None Include="Resources\CSGOBackground.bmp" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\steamworkshop_webupload_previewfile_157442340_preview %281%29.jpg" />
+    <None Include="Resources\steamworkshop_webupload_previewfile_157442340_preview %282%29.jpg" />
+    <None Include="Resources\VN2GEeH.jpg" />
+    <None Include="Resources\de_overpass-map-callouts-680x680.jpg" />
+    <None Include="Resources\de_cbble-map-callouts.jpg" />
+    <None Include="Resources\Inferno.jpg" />
+    <None Include="Resources\de_mirage-map-callouts.jpg" />
     <Content Include="Resources\kvv97dt.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
